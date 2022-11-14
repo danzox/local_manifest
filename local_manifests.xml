@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+     <!-- Remotes -->
         <remote name="ito"
                 fetch="https://github.com/ItoRenz-Build" />
         <remote name="dt"
