@@ -8,7 +8,7 @@
         <remote name="line"
                 fetch="https://github.com/LineageOS" />
         <remote name="arif"
-                fetch="https://github.com/" />
+                fetch="https://github.com/https-github-com-aripjuniarto123" />
         <remote name="tr"
                 fetch="https://github.com/danzox" />
 
@@ -29,7 +29,7 @@
    <project path="device/xiaomi/mi8937-camera" name="android_device_xiaomi_mi8937-camera" remote="dt" />
 
    <!-- Vendor Tree -->
-   <project path="vendor/xiaomi/Mi8937"  name="proprietary_vendor_xiaomi_Mi8937" remote="dt" revision="a11/master" />
+   <project path="vendor/xiaomi/Mi8937"  name="android_vendor_rice" remote="arif" revision="a13" />
    <project path="vendor/xiaomi/mithorium-common"  name="proprietary_vendor_xiaomi_mithorium-common" remote="dt" revision="a12/master" />
    <project path="vendor/xiaomi/Mi8937-2"  name="proprietary_vendor_xiaomi_Mi8937-2" remote="dt" revision="a11/master" />
 
